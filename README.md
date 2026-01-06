@@ -1,15 +1,18 @@
-# verilog-vlsi-testing-basics
-30-day Verilog practice for VLSI Testing Engineer
-verilog-vlsi-testing-basics/
-│
-├── 01_basic_gates/
-├── 02_combinational/
-├── 03_sequential/
-├── 04_fsm/
-├── 05_testing_concepts/
-├── waveforms/
-│   └── screenshots/
-│
-└── README.md
+# Verilog for VLSI Testing – Practice Repository
 
+This repository contains Verilog HDL modules and testbenches 
+focused on digital design fundamentals and VLSI testing concepts.
 
+## Topics Covered
+- Logic gates
+- Combinational circuits
+- Sequential circuits
+- FSMs
+- Basic scan and testing awareness
+
+## Tools Used
+- Icarus Verilog
+- GTKWave
+
+## Goal
+To build strong foundations for a VLSI Testing Engineer role.
