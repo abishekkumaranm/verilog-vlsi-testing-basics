@@ -1,4 +1,4 @@
-# Verilog for VLSI Testing – Practice Repository
+# Verilog for VLSI Testing – Repository
 
 This repository contains Verilog HDL modules and testbenches 
 focused on digital design fundamentals and VLSI testing concepts.
